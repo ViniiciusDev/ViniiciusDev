@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sono Vinicius, ho 23 anni e sono un studente di ingegneria informatica e fullstack developer, con maggiori competenze nel front end. Sono alla ricerca della prima opportunità lavorativa, ho acquisito le mie competenze da autodidatta e anche grazie al corso di Aulab, quello che mi distingue dalle altre persone é la mia capacita di comunicarmi con il team, oltre a essere determinato, ho tanta volonta di imparare e buone capacità di problem-solving 
+Sono Vinicius, ho 23 anni e sono un studente di ingegneria informatica e fullstack developer, con competenze lato frontend e backend. Sono alla ricerca della prima opportunità lavorativa, ho acquisito le mie competenze da autodidatta e anche grazie al corso di Aulab, quello che mi distingue dalle altre persone é la mia capacita di comunicarmi con il team, oltre a essere determinato, ho tanta volonta di imparare e buone capacità di problem-solving 
 
 
 ## 🌐 Socials:
