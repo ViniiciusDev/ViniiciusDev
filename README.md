@@ -1,14 +1,14 @@
 # 💫 About Me PT-BR:
 👋 Olá! Sou Vinicius Augusto Gomes de Jesus, um entusiasta apaixonado pelo desenvolvimento de softwar e web, em constante busca por aprendizado e aprimoramento. Há cerca de um ano, mergulhei de cabeça nesse mundo fascinante e desde então tenho explorado as nuances do desenvolvimento full stack com foco em Javascript.
 
-## 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 💫 About Me IT:
 👋 Ciao! Sono Vinicius Augusto Gomes de Jesus, un grande appassionato di coding. Da un anno studio lo sviluppo full stack, soprattutto con JavaScript. 
 
-## 🎓 Sono alle prese con la laurea in Analisi e Sviluppo di Sistemi e cerco sempre di imparare cose nuove
+🎓 Sono alle prese con la laurea in Analisi e Sviluppo di Sistemi e cerco sempre di imparare cose nuove
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
